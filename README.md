@@ -58,8 +58,8 @@
   [![Tailwind][Tailwind]][Tailwind-url]
   [![SupaBase][Supabase]][Supabase-url]
   [![Vercel][Vercel]][Vercel-url]
-  
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus architecto exercitationem quas iusto. Excepturi, esse dolorem perspiciatis beatae id consequatur vero delectus atque? Voluptas, similique!
+
+  Current Project. Project description in the works...
 
 ## Pricing Mars
   [Live](https://pricing-mars.vercel.app/)
@@ -71,7 +71,7 @@
   
   [![PricingMars][PricingMars]][PricingMars]
   
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus architecto exercitationem quas iusto. Excepturi, esse dolorem perspiciatis beatae id consequatur vero delectus atque? Voluptas, similique!
+  Reserve your Mars Villa today. A frontend project, Pricing Mars is a tounge in cheek Pricing page for a fictional Mars resort company. Built to familiarize myself with SASS as a styling technique.
 
 ## BrainBox
   [Live](https://brainbox-delta.vercel.app/)
@@ -83,7 +83,9 @@
   
   [![BrainBox][BrainBox]][BrainBox]
 
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus architecto exercitationem quas iusto. Excepturi, esse dolorem perspiciatis beatae id consequatur vero delectus atque? Voluptas, similique!
+  Built to explore Next.js and Server Side Components, BrainBox is a full-stack app that utilizes a PostgreSQL database with Supabase and features multiple authentication methods.
+  Too often, I have (what I think are) good ideas that I convince myself I'll remember, only to, of course, forget as the day goes on. So, I built BrainBox as a way to quickly log and save any new ideas I have throughout the day.
+  
 
 ## CarbonWorld 
   [Live](https://carbonworld.vercel.app/)
@@ -97,6 +99,7 @@
 
   Making use of CO2 emission data within an Postgresql database, select any country from across the globe and view their CO2 emissions from 1960 to 2019.
   Or compare multiple countries togther to see where each stands on the chart. (Spoiler, they all go up)
+  Built to expand on writing SQL and representing data in a user friendly way.
   
 ## Protos 
   [Live](https://protos.cyclic.app/)
@@ -117,6 +120,7 @@
   [![Node.js][Node.js]][Node.js-url]
   
   Leave no TODO behind..
+  A simple Node.Js project that will scan your codebase for any errant TODO's left behind. A markdown file is created listing in which file, and at what line each TODO was found.
 
 [Pricing-mars-url]: https://pricing-mars.vercel.app/
 [Pricing-mars-repo]: https://github.com/christophermorin/pricing-mars
